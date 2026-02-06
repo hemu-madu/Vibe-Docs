@@ -74,7 +74,9 @@
 
 [**View Source on GitHub**](https://github.com/hemu-madu/Vibe-Docs)
 
-*Clone and run locally to experience values.*
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/hemu-madu/Vibe-Docs)
+
+*Clone and run locally, or click the button above to run in the cloud!*
 
 ## ✨ Features
 
